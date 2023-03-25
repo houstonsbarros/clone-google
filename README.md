@@ -1,11 +1,11 @@
-# Cafezin Agendamento - CRUD 🖥️
+# Clone do Google em HTML, CSS e JavaScript 🖥️
 
 ## 💻 Sobre o projeto
 
 - Este projeto tem como objetivo criar um clone da página inicial do Google utilizando as tecnologias web HTML, CSS e JavaScript. A ideia é exercitar as habilidades de front-end e criar uma interface responsiva e semelhante ao site original.
 
 ## ⚡ Preview da aplicação
-
+![CloneGoogle](https://user-images.githubusercontent.com/107281650/227727580-3158dac8-6412-47c5-9fd9-629f2b6f0427.png)
 
 ## 📄 Requisitos
 - Navegador Web (Google Chrome, Firefox, Safari, etc.)
